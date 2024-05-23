@@ -37,7 +37,7 @@ from django.contrib.auth.forms import AuthenticationForm
 
 
 
-genai.configure(api_key="AIzaSyDz_LTs21KNJJ0o_q4ZnmxwqumiDzPfbX0")
+genai.configure(api_key="")
 
 # Gemini setup
 generation_config = {
